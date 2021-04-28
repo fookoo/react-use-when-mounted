@@ -1,0 +1,28 @@
+{
+  "name": "react-use-when-mounted",
+  "version": "1.0.0",
+  "description": "React hook which can check if component is still mounted",
+  "keywords": [
+    "ui",
+    "react",
+    "hook",
+    "mounted"
+  ],
+  "author": "Piotr Pliszczyński <fookoo@gmail.com>",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/fookoo/react-use-is-mounted"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.4",
+    "typescript": "^4.2.4"
+  }
+}
