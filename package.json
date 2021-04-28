@@ -1,6 +1,6 @@
 {
   "name": "react-use-when-mounted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook which can check if component is still mounted",
   "keywords": [
     "ui",
@@ -13,7 +13,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/fookoo/react-use-is-mounted"
+    "url": "https://github.com/fookoo/react-use-when-mounted"
   },
   "scripts": {
     "prepublish": "tsc"
